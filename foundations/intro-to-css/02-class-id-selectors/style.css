@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd-class {
+    background-color: rgb(234, 145, 145);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#number-2 {
+    color: rgb(47, 105, 254);
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: rgb(122, 250, 197);
+    font-weight: bold;
+}
+
+/*to reduce code, adjust-font-size is used instead of an id for Number 3*/
