@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+
+.dark,
+.light {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+}
+
+.light {
+    background-color: yellow;
+}
+
+/*1. Grouping with commas aplies shared styles
+  2. Later rules with equal specificity override earlier ones*/
